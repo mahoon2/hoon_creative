@@ -1,4 +1,4 @@
 baseURL = "http://example.org/"
-languageCode = "ko-kr"
+languageCode = "en-us"
 title = "hoon.creative"
-theme = "paper"
+theme = "etch"
